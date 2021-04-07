@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Toaster
+Type=Application
+Exec=/opt/Toaster/Toaster
+Terminal=false
+NoDisplay=false
+Categories=Utility;
+Version=1.2
+Icon=Toaster
